@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sebastiandash@icloud.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uB-nEnNOYQXJ7RMbLTBzBQGSkoeZwuNx/view?usp=sharing]
+- 📄 Know about my experiences, check my [resumee](https://drive.google.com/file/d/1uB-nEnNOYQXJ7RMbLTBzBQGSkoeZwuNx/view?usp=sharing)
 
 - ⚡ Fun fact **I'm really eager to learn new things and I'm open to new adventures!**
 
