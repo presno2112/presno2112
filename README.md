@@ -10,13 +10,13 @@
 
 - 👯 I’m looking to collaborate on **Summer internships!**
 
-- 💬 Ask me about **C++, Flask, SQL**
+- 💬 Ask me about **C++, Flask, SQL, Python and Django!**
 
 - 📫 How to reach me **sebastiandash@icloud.com**
 
 - 📄 Know about my experiences, check my [resumee](https://drive.google.com/file/d/1uB-nEnNOYQXJ7RMbLTBzBQGSkoeZwuNx/view?usp=sharing)
 
-- ⚡ Fun fact **I'm really eager to learn new things and I'm open to new adventures!**
+- ⚡ Fun fact **I'm really passionate about videogames! Currently obssesed with Tears of the Kingdom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
