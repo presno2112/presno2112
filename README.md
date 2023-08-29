@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **C++, Flask, SQL, Python and Django!**
 
-- 📫 How to reach me **sebastianpresnoa@gmail.com**
+- 📫 Reach me at **sebastianpresnoa@gmail.com**
 
 - 📄 Know about my experiences, check my [resumee]([https://drive.google.com/file/d/1uB-nEnNOYQXJ7RMbLTBzBQGSkoeZwuNx/view?usp=sharing](https://drive.google.com/file/d/1uB-nEnNOYQXJ7RMbLTBzBQGSkoeZwuNx/view?usp=sharing))
 
