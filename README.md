@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sebastián Presno</h1>
-<h3 align="center">A 2nd year Computer Science student from Mexico🇲🇽</h3>
+<h3 align="center">A 3rd year Computer Science student from Mexico🇲🇽</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/hFMnz8LHB0IAAAAC/loop-gamecube.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=presno2112&label=Profile%20views&color=0e75b6&style=flat" alt="presno2112" /> </p>
 
-- 🔭 I’m currently working on **Regal RexNord game and web development**
+- 🔭 I’m currently working on **SmashBot: A Discord Bot that manages your eSports events and servers**
 
-- 🌱 I’m currently learning **Advanced Data Structures, Game and Web Development**
+- 🌱 I’m currently learning **Advanced Data Structures, App Development with Swift and NodeJS**
 
 - 👯 I’m looking to collaborate on **Summer internships!**
 
 - 💬 Ask me about **C++, Flask, SQL, Python and Django!**
 
-- 📫 How to reach me **sebastiandash@icloud.com**
+- 📫 How to reach me **sebastianpresnoa@gmail.com**
 
-- 📄 Know about my experiences, check my [resumee](https://drive.google.com/file/d/1uB-nEnNOYQXJ7RMbLTBzBQGSkoeZwuNx/view?usp=sharing)
+- 📄 Know about my experiences, check my [resumee]([https://drive.google.com/file/d/1uB-nEnNOYQXJ7RMbLTBzBQGSkoeZwuNx/view?usp=sharing](https://drive.google.com/file/d/1uB-nEnNOYQXJ7RMbLTBzBQGSkoeZwuNx/view?usp=sharing))
 
 - ⚡ Fun fact **I'm really passionate about videogames! Currently obssesed with Tears of the Kingdom**
 
