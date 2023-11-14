@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **SmashBot: A Discord Bot that manages your eSports events and servers**
 
-- 🌱 I’m currently learning **Advanced Data Structures, App Development with Swift and NodeJS**
+- 🌱 I’m currently learning **Advanced Data Structures, App Development with Swift **
 
 - 👯 I’m looking to collaborate on **Summer internships!**
 
