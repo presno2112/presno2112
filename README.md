@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=presno2112&label=Profile%20views&color=0e75b6&style=flat" alt="presno2112" /> </p>
 
-- 🔭 I’m currently working on **SmashBot: A Discord Bot that manages your eSports events and servers**
+- 📱 I’m currently working on **iOS development using Swift**
 
-- 🌱 I’m currently learning **Advanced Data Structures, App Development with Swift **
+- 🌱 I’m currently learning **App Development with Objective-C**
 
 - 👯 I’m looking to collaborate on **Summer internships!**
 
-- 💬 Ask me about **C++, Flask, SQL, Python and Django!**
+- 💬 Ask me about **Swift, UI/UX, C++, Flask, SQL, Python and Django!**
 
 - 📫 Reach me at **sebastianpresnoa@gmail.com**
 
