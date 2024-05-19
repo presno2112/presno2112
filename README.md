@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences, check my [resumee]([https://drive.google.com/file/d/1uB-nEnNOYQXJ7RMbLTBzBQGSkoeZwuNx/view?usp=sharing](https://drive.google.com/file/d/1uB-nEnNOYQXJ7RMbLTBzBQGSkoeZwuNx/view?usp=sharing))
 
-- ⚡ Fun fact **I'm really passionate about videogames! Currently obssesed with Tears of the Kingdom**
+- ⚡ Fun fact **I'm really passionate about vinyl records. 💽**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
